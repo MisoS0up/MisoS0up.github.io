@@ -222,7 +222,8 @@ footer{
     }
 
 .grow img{
-    transition: 1s ease;
+    transition: 1s ease-in-out ;
+    border-radius: 100px ;
     }
     
     .grow img:hover{
