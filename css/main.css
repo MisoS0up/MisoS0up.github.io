@@ -72,8 +72,8 @@ nav{
     right: 0;
     z-index: 99;
     background-color: var(--dark);
-    padding: 16px 32px;
-    border-bottom: 3px solid var(--primary);
+    padding: 10px 32px;
+    border-bottom: 2px solid var(--primary);
 }
 .hamburger{
     display: block;
@@ -228,7 +228,7 @@ footer{
     .grow img:hover{
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
-    transform: scale(1.2);
+    transform: scale(1.);
     transition: 2.5s ease;
     }
 
