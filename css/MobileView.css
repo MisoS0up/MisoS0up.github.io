@@ -86,6 +86,8 @@
        
         border-radius: 33% 67% 62% 38% / 64% 52% 48% 36%  ;
         filter: drop-shadow(0 0 0.90rem rgba(230, 53, 230, 0.616));
+        height: 50%;
+        width: 50%;
     }
       .grow-modal img{
         transition: 1s ease;

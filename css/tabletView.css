@@ -111,6 +111,8 @@
         .picture-about img{
             border-radius: 0% 100% 3% 97% / 73% 54% 46% 27%  ;
             filter: drop-shadow(0 0 0.90rem rgb(207, 190, 35));
+            height: 40%;
+            width: 30%;
         }
 
 

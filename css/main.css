@@ -629,6 +629,8 @@ form button{
     transition: 1s ease-in-out ;
     border-radius: 83% 17% 72% 28% / 46% 17% 83% 54%  ;
     filter: drop-shadow(0 0 0.90rem rgb(236, 171, 73));
+    height: 60%;
+    width: 70%;
 }
 /** Terminal Effect **/
 
